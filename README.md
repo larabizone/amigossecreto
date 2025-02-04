@@ -18,8 +18,6 @@ Bem-vindo ao **Projeto Amigo Secreto**, uma aplicação web simples e divertida 
 - **HTML5** 📄
 - **CSS3** 🎨
 - **JavaScript** ⚡
-- (Adicione outras tecnologias se houver)
-
 ---
 
 ## ⚙️ **Instalação e Execução Local**
