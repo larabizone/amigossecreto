@@ -2,8 +2,6 @@
 
 Bem-vindo ao **Projeto Amigo Secreto**, uma aplicação web simples e divertida para organizar sorteios de amigo secreto de forma rápida e eficiente.
 
-![Banner](https://via.placeholder.com/800x200.png?text=Amigo+Secreto)
-
 ---
 
 ## 🚀 **Funcionalidades Principais**
